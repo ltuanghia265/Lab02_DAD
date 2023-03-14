@@ -1,0 +1,12 @@
+C:\Users\perfe\source\repos\VD2\VD2\bin\Debug\VD2.exe.config
+C:\Users\perfe\source\repos\VD2\VD2\bin\Debug\VD2.exe
+C:\Users\perfe\source\repos\VD2\VD2\bin\Debug\VD2.pdb
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.csproj.AssemblyReference.cache
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.frmGiaoVien.resources
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.frmTBGiaoVien.resources
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.Properties.Resources.resources
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.csproj.GenerateResource.cache
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.csproj.CoreCompileInputs.cache
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.exe
+C:\Users\perfe\source\repos\VD2\VD2\obj\Debug\VD2.pdb

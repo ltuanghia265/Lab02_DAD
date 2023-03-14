@@ -1,0 +1,12 @@
+C:\Users\PC407\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\PC407\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\PC407\source\repos\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\Lab2_Demo.csprojAssemblyReference.cache
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.Demo.resources
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\Lab2_Demo.csproj.GenerateResource.cache
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\Lab2_Demo.csproj.CoreCompileInputs.cache
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.frmGiaoVien.resources
+C:\Users\PC407\source\repos\MyForm\MyForm\obj\Debug\MyForm.frmTBGiaoVien.resources
